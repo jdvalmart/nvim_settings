@@ -30,7 +30,35 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     "coc
     " Use release branch (recommend)
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+    Plug 'neoclide/coc.nvim', {'branch': 'release'}
+    Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'yarn install --frozen-lockfile'}
 
-   call plug#end()
+    "Lsp
+    Plug 'neovim/nvim-lspconfig'
+    Plug 'nvim-lua/completion-nvim'
+
+    "plugins para JavaScript
+    Plug 'pangloss/vim-javascript'
+    Plug 'maxmellon/vim-jsx-pretty'
+
+    "snipets para javascript
+    Plug 'SirVer/ultisnips'
+    Plug 'mlaursen/vim-react-snippets'
+
+    "emmet  
+    Plug 'mattn/emmet-vim'
+
+    "comentarios  
+    Plug 'tpope/vim-commentary'
+    
+    "linea de cierre y apertura
+    Plug 'Yggdroot/indentLine'
+     
+    "barra lateral
+    Plug 'scrooloose/nerdtree'
+
+    "iconos de la barra
+    Plug 'ryanoasis/vim-devicons'
+
+    call plug#end()
 
