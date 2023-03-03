@@ -20,10 +20,11 @@
 LSP permite usar diferentes lenguajes tengo instalado tsscript, html, css y json
 para verificarlos usamos 
 
-<ul><li>-:LSP </li></ul>
+<ul><li> :LSP </li></ul>
 Ahi vemos las opciones
 </P>
 
-<p>
-desde la barra de tareas presionamos la tecla M y nos muestra un menu 
+
+<h2>Crear archivos nuevos desde nvim por medio de la barra de herramientas</h2>
+<p>desde la barra de tareas presionamos la tecla M y nos muestra un menu 
 que nos permite crear, mover, borrar desde nvim.</p>
