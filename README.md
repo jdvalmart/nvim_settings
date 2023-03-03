@@ -11,8 +11,8 @@
 <li>para salir => ctrl + Q</li>
 <li>para ordenar lineas de codigo => ctrl + D</li>
 <li>para comentar => space + /</li>
-<li>para abrir barra lateral => <F2></li>
-<li>para cerrar barra lateral => <F3></li>
+<li>para abrir barra lateral => F2 </li>
+<li>para cerrar barra lateral => F3 </li>
 <li>para autocompletado usamos <tab> Ej: cl => console.log().ojo ver doc https://github.com/mlaursen/vim-react-snippets()</li>
 </ul>
 
@@ -20,8 +20,7 @@
 LSP permite usar diferentes lenguajes tengo instalado tsscript, html, css y json
 para verificarlos usamos 
 
--:LSP 
-
+<ul><li>-:LSP </li></ul>
 Ahi vemos las opciones
 </P>
 
