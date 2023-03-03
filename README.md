@@ -25,6 +25,6 @@ Ahi vemos las opciones
 </P>
 
 
-<h2>Crear archivos nuevos desde nvim por medio de la barra de herramientas</h2>
+<h3>Crear archivos nuevos desde nvim por medio de la barra de herramientas</h3>
 <p>desde la barra de tareas presionamos la tecla M y nos muestra un menu 
 que nos permite crear, mover, borrar desde nvim.</p>
